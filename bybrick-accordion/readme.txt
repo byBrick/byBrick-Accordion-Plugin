@@ -1,5 +1,5 @@
 === byBrick Accordion ===
-Contributors: davidpaulsson
+Contributors: davidpaulsson, sakjur
 Donate link: -
 Tags: accordion, expand, collapsible, shortcode
 Requires at least: 3.0

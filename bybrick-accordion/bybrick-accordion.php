@@ -3,7 +3,7 @@
 Plugin Name: byBrick Accordion
 Plugin URI: https://github.com/byBrick/byBrick-Accordion-Plugin
 Description: A plugin that enables in-post open and close menus.
-Version: 0.1.2
+Version: 1.0
 Author: byBrick
 Author URI: http://www.bybrick.se/
 License: GNU General Public License (GPLv3)

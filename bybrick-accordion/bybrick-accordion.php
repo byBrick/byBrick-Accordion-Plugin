@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: byBrick Accordion
-Plugin URI: http://www.bybrick.se/
+Plugin URI: https://github.com/byBrick/byBrick-Accordion-Plugin
 Description: A plugin that enables in-post open and close menus.
 Version: 0.1.2
 Author: byBrick

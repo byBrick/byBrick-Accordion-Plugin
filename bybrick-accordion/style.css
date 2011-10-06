@@ -1,0 +1,21 @@
+.accordion-title {
+    background-image: -webkit-linear-gradient(bottom, rgb(234,234,234) 0%, rgb(248,248,248) 100%);
+    background-image:    -moz-linear-gradient(bottom, rgb(234,234,234) 0%, rgb(248,248,248) 100%);
+    background-image:     -ms-linear-gradient(bottom, rgb(234,234,234) 0%, rgb(248,248,248) 100%);
+    background-image:      -o-linear-gradient(bottom, rgb(234,234,234) 0%, rgb(248,248,248) 100%);
+    background-image:         linear-gradient(bottom, rgb(234,234,234) 0%, rgb(248,248,248) 100%);
+    -webkit-border-radius: 2px;
+       -moz-border-radius: 2px;
+         -o-border-radius: 2px;
+            border-radius: 2px;
+    border: 1px solid #d8d8d8;
+    clear: both;
+    font-size: .9em;
+    font-weight: bold;
+    margin: .5em 0;
+    padding: .5em;
+    text-shadow: 0px 1px #fff;
+    width: 100%;
+}
+.accordion-title:hover { cursor: pointer }
+.accordion-content { margin-bottom: 1em }

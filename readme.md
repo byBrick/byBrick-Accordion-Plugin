@@ -1,18 +1,12 @@
-=== byBrick Accordion ===
-Contributors: davidpaulsson, sakjur
-Donate link: -
-Tags: accordion, expand, collapsible, shortcode
-Requires at least: 3.0
-Tested up to: 3.2.1
-Stable tag: trunk
+# byBrick Accordion #
 
 A plugin that enables in-post open and close menus/accordions.
 
-== Description ==
+## Description ##
 
 A small but simple plugin that enables shortcode support to create accordion sections directly in your posts/pages.
 
-== Installation ==
+## Installation ##
 
 First of all, this plugin lives here on Github for you who wish to fork, develop and/or work with the code made available here. If you just want the plugin on your existing WordPress site, you can search for 'byBrick Columns' on the WordPress Plugin repository and install it from there. That way you'll also get any available updates right in your WordPress Dashboard.
 
@@ -23,22 +17,17 @@ It's quite simple;
 3. ???
 4. Profit!
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= How does this work? =
+### How does this work? ###
 
-This plugin enables you to use short codes right in the TinyMCE editor when writing a post and/or page. Just type '[collapsible_item title="Your title for this section"]Whatever text you want to display when this section is expanded.[/collapsible_item]'
+This plugin enables you to use short codes right in the TinyMCE editor when writing a post and/or page. Just type `[collapsible_item title="Your title for this section"]Whatever text you want to display when this section is expanded.[/collapsible_item]`
 
-= What about the pages where I don't use accordions, will my site still load that extra CSS file? I don't want another http request! =
+### What about the pages where I don't use accordions, will my site still load that extra CSS file? I don't want another http request! ###
 
 Don't worry son! The style file won't load unless it's needed.
 
-== Changelog ==
+## Changelog ##
 
-= 1.0 =
+### 1.0 ###
 * Launch baby, launch!
-
-== Upgrade Notice ==
-
-= 1.0 =
-First version.
